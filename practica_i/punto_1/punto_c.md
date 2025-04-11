@@ -1,0 +1,1 @@
+**debido a problemas de importación la solcuión respectiva al punto c del primer numeral se encuentra en el notebook `./a/H2.ipynb` y el archivo `./a/atom_optimization.py`**
