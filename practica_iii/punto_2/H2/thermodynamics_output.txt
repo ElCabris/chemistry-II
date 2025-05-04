@@ -1,0 +1,33 @@
+Thermodynamic properties (vibrational + ZPE + SCF) from punto_2/H2/vibspectrum
+SCF Energy extracted from punto_2/H2/H2_hess.out: -0.98268612 Hartree = -26.74027 eV
+
+--- 300.0 K ---
+Zero-point energy (ZPE): 0.02365 eV
+Enthalpy (H total): -26.63002 eV
+Entropy (S total): 0.00899 kcal/(mol·K) or 0.00039 eV/K
+Gibbs Free Energy (G total, with ZPE): -26.72334 eV
+
+--- 350.0 K ---
+Zero-point energy (ZPE): 0.02365 eV
+Enthalpy (H total): -26.61368 eV
+Entropy (S total): 0.00923 kcal/(mol·K) or 0.00040 eV/K
+Gibbs Free Energy (G total, with ZPE): -26.73017 eV
+
+--- 400.0 K ---
+Zero-point energy (ZPE): 0.02365 eV
+Enthalpy (H total): -26.59714 eV
+Entropy (S total): 0.00946 kcal/(mol·K) or 0.00041 eV/K
+Gibbs Free Energy (G total, with ZPE): -26.73751 eV
+
+--- 500.0 K ---
+Zero-point energy (ZPE): 0.02365 eV
+Enthalpy (H total): -26.56368 eV
+Entropy (S total): 0.00985 kcal/(mol·K) or 0.00043 eV/K
+Gibbs Free Energy (G total, with ZPE): -26.75354 eV
+
+--- 800.0 K ---
+Zero-point energy (ZPE): 0.02365 eV
+Enthalpy (H total): -26.46183 eV
+Entropy (S total): 0.01072 kcal/(mol·K) or 0.00046 eV/K
+Gibbs Free Energy (G total, with ZPE): -26.81017 eV
+
